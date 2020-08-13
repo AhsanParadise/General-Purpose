@@ -1,7 +1,7 @@
 #  ========== ========== ============ Useful python code for beginners ============ ========= =========  #
 
 
-# Intro ===
+# Intro ====
 def my_name(name, age):
     print(f"Hi,{name}. Nice to meet you.")
     print(
